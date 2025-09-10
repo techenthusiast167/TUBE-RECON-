@@ -172,6 +172,16 @@ YouTube has become a critical platform for digital presence, making it an essent
 
 - Python 3.8 or higher
 
+**Starting the Tool**
+
+- Create and activate your virtual environment
+- Follow the link below, copy and install the tool script manually using nano:
+  **https://gist.github.com/techenthusiast167/8b0d962184f8e32d99dbcc687a81545e**
+
+- **Example**:
+- **nano tuberecon.py**
+- Press **Ctrl + O, Enter, Ctrl + X** to exit. 
+
 **Install core dependencies**
 
     pip3 install google-api-python-client isodate requests beautifulsoup4
@@ -209,16 +219,7 @@ YouTube has become a critical platform for digital presence, making it an essent
 
 ---
 
-#Usage Guide
-
-**Starting the Tool**
-
-- Create and activate your virtual environment
-- Follow the link below, copy and install the tool script manually using nano: ...
-
-- **Example**:
-- **nano tuberecon.py**
-- Press **Ctrl + O, Enter, Ctrl + X** to exit. 
+# Usage Guide
 
 **Run the tool**
 
